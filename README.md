@@ -3,4 +3,4 @@ A repository containing examples for the Foundations of Web Development course o
 
 ## Examples
 
-- [HTML Web Forms]('/html-forms')
+- [HTML Web Forms](/html-forms)
