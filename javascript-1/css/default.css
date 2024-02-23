@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    font-family: "Open Sans", sans-serif
+}
+
+section {
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/pets.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    margin: 0;
+    font-family: "Gloria Hallelujah", cursive;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
