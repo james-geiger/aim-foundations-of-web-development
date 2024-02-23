@@ -4,3 +4,7 @@ A repository containing examples for the Foundations of Web Development course o
 ## Examples
 
 - [HTML Web Forms](https://james-geiger.github.io/aim-foundations-of-web-development/html-forms)
+
+## Code Challenges
+
+- [Javascript Code Challenge](https://james-geiger.github.io/aim-foundations-of-web-development/javascript-code-challenge)
